@@ -1,0 +1,9 @@
+{
+  "locale": "en-US",
+  "translations": {
+    "newTest": "Bonjuor..!",
+    "homeTitle": "Bienvenue dans mon application Angular",
+    "homeDescription": "Ceci est un exemple d'Angular i18n avec le format JSON.",
+    "my": "monjor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "locale": "en-US",
+  "translations": {
+    "hello": " Hello i18n!\n",
+    "newTest": "my-component works!",
+    "homeTitle": "Welcome to My Angular App",
+    "homeDescription": "This is an example of Angular i18n with JSON format.",
+    "my": "my"
+  }
+}
